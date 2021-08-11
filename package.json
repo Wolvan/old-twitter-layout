@@ -1,0 +1,12 @@
+{
+  "name": "old-twitter-layout",
+  "version": "2.0.0",
+  "description": "Fix the twitter fonts",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}

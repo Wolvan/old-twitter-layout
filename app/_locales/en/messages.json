@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Old Twitter Layout",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "Old Twitter",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Bring back the old Twitter layout",
+    "description": "The description of the application"
+  }
+}
